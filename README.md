@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Enrique A. Budiono
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Lua Programing
-- 📫 How to reach me through instagram at **enrique.a.budiono**
+* 👋 Hi, I’m Enrique A. Budiono
+* 👀 I’m interested in Coding
+* 🌱 I’m currently learning Lua Programing
+* 📫 How to reach me :
+- __instagram__ at **enrique.a.budiono**
 
 <!---
 enriqueardieanbudiono/enriqueardieanbudiono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
