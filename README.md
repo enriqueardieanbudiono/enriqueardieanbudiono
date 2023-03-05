@@ -1,30 +1,12 @@
-* 👋 Hi, I’m Enrique A. Budiono
-* 👀 I’m interested in Coding
-* 🌱 I’m currently learning Lua Programing
+[<img src='https://img.icons8.com/glyph-neue/40/FFFFFF/github.svg' alt='github' height='40'>](https://github.com/enriqueardieanbudiono)[<img src='https://img.icons8.com/glyph-neue/40/FFFFFF/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/enrique-a-budiono-905372175/)[<img src='https://img.icons8.com/glyph-neue/40/FFFFFF/instagram-new.svg' alt='instagram' height='40'>](https://www.instagram.com/enrique.a.budiono/)[<img src='https://img.icons8.com/glyph-neue/40/FFFFFF/twitter.svg' alt='twitter' height='40'>](https://twitter.com/GenovaZero)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=enriqueardieanbudiono&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-**How to reach me :**
+# Main GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=enriqueardieanbudiono&show_icons=true)
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]("https://www.linkedin.com/in/enrique-a-budiono-905372175/")
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=enriqueardieanbudiono)
+# Secondary GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=enriquebudiono&show_icons=true)
 
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]("https://www.instagram.com/enrique.a.budiono/")
-
-<br>
-
-
-**Langguage & Tools**:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<!---
-enriqueardieanbudiono/enriqueardieanbudiono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=enriquebudiono)
